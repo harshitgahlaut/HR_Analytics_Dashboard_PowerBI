@@ -22,6 +22,7 @@ Support an organization in optimizing employee performance, strengthening employ
 - Designing interactive dashboard for visualisation.
 
 ## 🧠💡 Key Insights
+
 1.	📊 Age: Uncover attrition patterns by age groups. Most attrition occurs in the 26-35 age group.
 
 2.	💰 Salary: Analyze attrition relative to salary bands. Highest attrition is seen in employees earning up to 5K.
